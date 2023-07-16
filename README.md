@@ -14,5 +14,7 @@ This repository contains a set of C++ files that demonstrate various image proce
 
 6. **color_detection.cpp**: This file showcases how to detect colors of specific shapes using color parameters such as hue, saturation, and value. It also demonstrates how to process color values into numerical forms and create masks based on that information.
 
+7.**shapes_and_contour_detection.cpp**
+
 ## Contribution
 If you would like to contribute to this repository, feel free to submit issues, feature requests, or pull requests. Any contributions are welcome!
