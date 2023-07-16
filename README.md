@@ -16,5 +16,7 @@ This repository contains a set of C++ files that demonstrate various image proce
 
 7.**shapes_and_contour_detection.cpp**: This program serves the purpose of image analysis to detect and identify various shapes present in the image. It utilizes the OpenCV library for image processing, including operations such as converting to grayscale, blurring, edge detection, and dilation. The program then locates contours in the image, calculates their areas, and identifies shape types such as triangles, squares, rectangles, and circles, drawing corresponding rectangles and contours on the resulting image.
 
+8. **face_detector.cpp**: This program utilizes the OpenCV library to detect faces in an image. It loads a pre-trained Haar cascade classifier specifically designed for frontal face detection. The program reads an image, applies the face detection algorithm using the loaded classifier, and identifies the bounding boxes around the detected faces. Finally, it displays the image with the bounding boxes drawn around the detected faces.
+
 ## Contribution
 If you would like to contribute to this repository, feel free to submit issues, feature requests, or pull requests. Any contributions are welcome!
